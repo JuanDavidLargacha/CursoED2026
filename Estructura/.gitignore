@@ -1,0 +1,9 @@
+# Ignorar archivos objeto (compilación intermedia)
+*.o
+
+# Ignorar ejecutables de Windows
+*.exe
+
+# Ignorar ejecutables de Linux/macOS (comúnmente sin extensión)
+# Si tus ejecutables no tienen extensión, es mejor ignorar la carpeta de salida
+# Ejemplo: /bin/ o /out/
